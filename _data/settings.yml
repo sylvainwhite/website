@@ -4,30 +4,24 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+google-ID: ''
 
-language: 'fr-CA'
-
-menu:
-- {name: 'Accueil',  url: 'facts'}
-- {name: 'Qui est Francine?', url: 'resources'}
-- {name: 'Tarifs',            url: 'sample-posts'}
-- {name: 'Contact',           url: 'fr-CA/contact'}
+menus:
+  en-US:
+    - {name: 'Home',              url: 'en-US/index'}
+    - {name: 'Who is Francine?',  url: 'en-US/whoIsFrancine'}
+    - {name: 'Rates',             url: 'en-US/rates'}
+    - {name: 'Contact',           url: 'en-US/contact'}
+  fr-CA:
+    - {name: 'Accueil',           url: 'fr-CA/index'}
+    - {name: 'Qui est Francine?', url: 'fr-CA/whoIsFrancine'}
+    - {name: 'Tarifs',            url: 'fr-CA/rates'}
+    - {name: 'Contact',           url: 'fr-CA/contact'}
 
 menu_languages:
-- {name: 'Francais',          url: 'fr-CA/index'}
-- {name: 'Anglais',           url: 'en-US/index'}
+- {name: 'Francais', url: 'fr-CA/index'}
+- {name: 'Anglais',  url: 'en-US/index'}
 
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
-social: []
-
-# Customize site text
-pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
-
-sharing_button_prompt: 'Feel free to share!'
-
-related_posts: 'You may also enjoy...'
-
-post_date_prefix: 'Written on'
+copyright_languages:
+  en-US: '© 2025 All right reserved'
+  fr-CA: '© 2025 Tous droits réservés'

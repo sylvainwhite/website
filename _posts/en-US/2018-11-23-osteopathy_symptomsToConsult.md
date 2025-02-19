@@ -2,7 +2,6 @@
 layout: post
 title: "Why you should consult?"
 image: osteopathy_symptomsToConsult.jpg
-permalink: en-US/osteopathy_symptomsToConsult
 language: en-US
 ---
 - **Joint pain and inflammation**: neck, back, hips, knees, etc.

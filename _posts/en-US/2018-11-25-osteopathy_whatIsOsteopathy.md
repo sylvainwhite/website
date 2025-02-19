@@ -2,7 +2,6 @@
 layout: post
 title: "What is osteopathy?"
 image: osteopathy_whatIsOsteopathy.jpg
-permalink: en-US/osteopathy_whatIsOsteopathy
 language: en-US
 ---
 In its service to health, Osteopathy defines the role of the therapist as assisting
