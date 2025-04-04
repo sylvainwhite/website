@@ -11,6 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "francinehemmings.com"
+email:               "osteopathie@francinehemmings.com"
 description:	       "a minimalist Jekyll theme for running a blog or publication"
 author:              "Paul Le"
 hide_post_date:      true

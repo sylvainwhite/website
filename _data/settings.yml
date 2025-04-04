@@ -19,8 +19,24 @@ menus:
     - {name: 'Contact',           url: 'fr-CA/contact'}
 
 menu_languages:
-- {name: 'Francais', url: 'fr-CA/index'}
-- {name: 'Anglais',  url: 'en-US/index'}
+  - {name: 'Francais', url: 'fr-CA/index'}
+  - {name: 'Anglais',  url: 'en-US/index'}
+
+contact_form_languages:
+  en-US:
+    name: 'Name'
+    email: 'Email'
+    message: 'Message'
+    send: 'Send'
+  fr-CA:
+    name: 'Nom'
+    email: 'Courriel'
+    message: 'Message'
+    send: 'Envoyer'
+
+test_languages:
+  en-US: '© 2025 All right reserved'
+  fr-CA: '© 2025 Tous droits réservés'
 
 copyright_languages:
   en-US: '© 2025 All right reserved'
