@@ -4,7 +4,7 @@ title: "Rates"
 permalink: en-US/rates/
 language: en-US
 ---
-<h1>Rates and cancellation</h1>
+<h3>Rates and cancellation</h3>
 <table>
     <tr>
         <th>Consultation</th>

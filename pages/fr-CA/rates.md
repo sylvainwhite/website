@@ -4,7 +4,7 @@ title: "Tarifs"
 permalink: fr-CA/rates/
 language: fr-CA
 ---
-<h1>Tarifs et politique d'annulation</h1>
+<h3>Tarifs et politique d'annulation</h3>
 <table>
     <tr>
         <th>Consultation</th>
